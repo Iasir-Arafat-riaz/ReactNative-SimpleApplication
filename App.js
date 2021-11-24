@@ -10,7 +10,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       
-      <Text>This is my first mobile app </Text>
+      
       
       <Text> mobile app development interesting for me.....</Text>
       <StatusBar style="auto" />
